@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<restaurants>
+  <restaurant>
+    <name>Giovanni's Italia Fine Dinning</name>
+    <food>Italian</food>
+    <price>4</price>
+    <rating>4.00</rating>
+    <summary>Giovanni's Italia Fine Dinning is a completely restored Victorian stone house
+            and offers a warm and elegant atmosphere and gracious service.
+		</summary>
+    <address>
+      <street>2100 Lakeview Road</street>
+      <postalCode>K1K 1K1</postalCode>
+      <city>Toronto</city>
+      <province>7</province>
+    </address>
+  </restaurant>
+  <restaurant>
+    <name>Gong's Asian Cuisine</name>
+    <food>Asian</food>
+    <price>1</price>
+    <rating>5.00</rating>
+    <summary>The Gong's food is always consistent. A good variety of dim sum, sushi, Chinese and
+            even Vietnamese dishes. The service is quick and the food is plentiful. We sat
+            down last night and within seconds of turning in our first order, the plates were on
+            the table! The teriyaki dishes had the right amount of sauce and weren't
+            sickeningly sweet. The chicken, fish, and beef were perfectly cooked. The makirolls
+            were neatly rolled, cut properly and seasoned well. Loved the General Tao chicken, the
+            steamed BBQ pork buns, the eel sushi and the lovely eggplant. We
+            will be going back again! I would highly recommend it.
+		</summary>
+    <address>
+      <street>1385 Woodroffe Avenue</street>
+      <postalCode>K2G 1V8</postalCode>
+      <city>Toronto</city>
+      <province>6</province>
+    </address>
+  </restaurant>
+  <restaurant>
+    <name>Baker Street TexMex Grill</name>
+    <food>Mexican</food>
+    <price>2</price>
+    <rating>4.50</rating>
+    <summary>My favorite restaurant in Ottawa. The family who owns it are very warm and lovely people. They are incredible at recognizing you when you come back. The burritos are super good. You can customize however you want (guac is included!). I especially love that there is cactus in the veggie mix; it is a small, special thing that sets this place apart from other Mexican spots downtown.</summary>
+    <address>
+      <street>234 Baker Street</street>
+      <postalCode>B1G 1V1</postalCode>
+      <city>Ottawa</city>
+      <province>6</province>
+    </address>
+  </restaurant>
+</restaurants>
